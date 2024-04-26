@@ -1,0 +1,15 @@
+Error in callback <bound method _WandbInit._pause_backend of <wandb.sdk.wandb_init._WandbInit object at 0x7f55ec6c8e50>> (for post_run_cell), with arguments args (<ExecutionResult object at 7f55ec6c8c10, execution_count=1 error_before_exec=None error_in_exec=None info=<ExecutionInfo object at 7f55ec6c8f10, raw_cell="import wandb
+import pandas as pd
+# Note that we us.." store_history=True silent=False shell_futures=True cell_id=vscode-notebook-cell:/home/cooperhepworth/Project-Build-an-ML-Pipeline-Starter/src/eda/eda.ipynb#W2sZmlsZQ%3D%3D> result=None>,),kwargs {}:
+Error in callback <bound method _WandbInit._resume_backend of <wandb.sdk.wandb_init._WandbInit object at 0x7f55ec6c8e50>> (for pre_run_cell), with arguments args (<ExecutionInfo object at 7f55a4646640, raw_cell="print(wandb.use_artifact("sample.csv:latest").file.." store_history=True silent=False shell_futures=True cell_id=vscode-notebook-cell:/home/cooperhepworth/Project-Build-an-ML-Pipeline-Starter/src/eda/eda.ipynb#X22sZmlsZQ%3D%3D>,),kwargs {}:
+./artifacts/sample.csv:v0/sample1.csv
+Error in callback <bound method _WandbInit._pause_backend of <wandb.sdk.wandb_init._WandbInit object at 0x7f55ec6c8e50>> (for post_run_cell), with arguments args (<ExecutionResult object at 7f55a4646d30, execution_count=2 error_before_exec=None error_in_exec=None info=<ExecutionInfo object at 7f55a4646640, raw_cell="print(wandb.use_artifact("sample.csv:latest").file.." store_history=True silent=False shell_futures=True cell_id=vscode-notebook-cell:/home/cooperhepworth/Project-Build-an-ML-Pipeline-Starter/src/eda/eda.ipynb#X22sZmlsZQ%3D%3D> result=None>,),kwargs {}:
+Error in callback <bound method _WandbInit._resume_backend of <wandb.sdk.wandb_init._WandbInit object at 0x7f55ec6c8e50>> (for pre_run_cell), with arguments args (<ExecutionInfo object at 7f559c41da90, raw_cell="import wandb
+import pandas as pd
+# Note that we us.." store_history=True silent=False shell_futures=True cell_id=vscode-notebook-cell:/home/cooperhepworth/Project-Build-an-ML-Pipeline-Starter/src/eda/eda.ipynb#W2sZmlsZQ%3D%3D>,),kwargs {}:
+Error in callback <bound method _WandbInit._pause_backend of <wandb.sdk.wandb_init._WandbInit object at 0x7f55ec6c8e50>> (for post_run_cell), with arguments args (<ExecutionResult object at 7f559c41d790, execution_count=3 error_before_exec=None error_in_exec=init() got an unexpected keyword argument 'WANDB_NOTEBOOK_NAME' info=<ExecutionInfo object at 7f559c41da90, raw_cell="import wandb
+import pandas as pd
+# Note that we us.." store_history=True silent=False shell_futures=True cell_id=vscode-notebook-cell:/home/cooperhepworth/Project-Build-an-ML-Pipeline-Starter/src/eda/eda.ipynb#W2sZmlsZQ%3D%3D> result=None>,),kwargs {}:
+Error in callback <bound method _WandbInit._resume_backend of <wandb.sdk.wandb_init._WandbInit object at 0x7f55ec6c8e50>> (for pre_run_cell), with arguments args (<ExecutionInfo object at 7f55a468dbe0, raw_cell="import wandb
+import pandas as pd
+# Note that we us.." store_history=True silent=False shell_futures=True cell_id=vscode-notebook-cell:/home/cooperhepworth/Project-Build-an-ML-Pipeline-Starter/src/eda/eda.ipynb#W2sZmlsZQ%3D%3D>,),kwargs {}:

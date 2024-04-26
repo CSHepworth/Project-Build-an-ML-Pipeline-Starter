@@ -1,0 +1,15 @@
+artifact_uri: file:///home/cooperhepworth/Project-Build-an-ML-Pipeline-Starter/mlruns/0/9f3f8cbffbd84568a59c2828d502beda/artifacts
+end_time: 1714165298422
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9f3f8cbffbd84568a59c2828d502beda
+run_name: amazing-mink-485
+run_uuid: 9f3f8cbffbd84568a59c2828d502beda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714165249587
+status: 3
+tags: []
+user_id: cooperhepworth

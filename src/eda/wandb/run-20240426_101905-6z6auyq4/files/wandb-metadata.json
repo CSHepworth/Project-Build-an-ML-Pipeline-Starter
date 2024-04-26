@@ -1,0 +1,116 @@
+{
+    "os": "Linux-6.2.6-76060206-generic-x86_64-with-glibc2.35",
+    "python": "3.9.15",
+    "heartbeatAt": "2024-04-26T16:19:12.075228",
+    "startedAt": "2024-04-26T16:19:05.102314",
+    "docker": null,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "<python with no main file>",
+    "git": {
+        "remote": "https://github.com/CSHepworth/Project-Build-an-ML-Pipeline-Starter.git",
+        "commit": "077621b0ed54d88e8c2f5ef3dea7b725c4ea7c98"
+    },
+    "email": "sircooperhepworth@gmail.com",
+    "root": "/home/cooperhepworth/Project-Build-an-ML-Pipeline-Starter",
+    "host": "pop-os",
+    "username": "cooperhepworth",
+    "executable": "/home/cooperhepworth/miniconda3/envs/nyc_airbnb_dev/bin/python",
+    "cpu_count": 12,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 1603.4520624999998,
+        "min": 400.0,
+        "max": 4050.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1054.051,
+            "min": 400.0,
+            "max": 4700.0
+        },
+        {
+            "current": 523.995,
+            "min": 400.0,
+            "max": 4700.0
+        },
+        {
+            "current": 1603.62,
+            "min": 400.0,
+            "max": 4700.0
+        },
+        {
+            "current": 2500.0,
+            "min": 400.0,
+            "max": 4700.0
+        },
+        {
+            "current": 2080.514,
+            "min": 400.0,
+            "max": 4700.0
+        },
+        {
+            "current": 2500.0,
+            "min": 400.0,
+            "max": 4700.0
+        },
+        {
+            "current": 1597.971,
+            "min": 400.0,
+            "max": 4700.0
+        },
+        {
+            "current": 2500.0,
+            "min": 400.0,
+            "max": 4700.0
+        },
+        {
+            "current": 1342.938,
+            "min": 400.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1577.534,
+            "min": 400.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1441.573,
+            "min": 400.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1302.829,
+            "min": 400.0,
+            "max": 3400.0
+        },
+        {
+            "current": 2500.0,
+            "min": 400.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1229.341,
+            "min": 400.0,
+            "max": 3400.0
+        },
+        {
+            "current": 1307.92,
+            "min": 400.0,
+            "max": 3400.0
+        },
+        {
+            "current": 400.093,
+            "min": 400.0,
+            "max": 3400.0
+        }
+    ],
+    "disk": {
+        "total": 109.95999526977539,
+        "used": 55.83293151855469
+    },
+    "memory": {
+        "total": 15.285789489746094
+    }
+}

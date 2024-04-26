@@ -1,0 +1,15 @@
+artifact_uri: file:///home/cooperhepworth/Project-Build-an-ML-Pipeline-Starter/mlruns/0/b40a95f2f5de4e0d83e3ecf9028eb7d2/artifacts
+end_time: 1714150440160
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b40a95f2f5de4e0d83e3ecf9028eb7d2
+run_name: likeable-fish-298
+run_uuid: b40a95f2f5de4e0d83e3ecf9028eb7d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714150421609
+status: 3
+tags: []
+user_id: cooperhepworth

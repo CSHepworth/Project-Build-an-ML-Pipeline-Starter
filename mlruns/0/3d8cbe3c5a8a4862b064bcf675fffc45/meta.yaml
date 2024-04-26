@@ -1,0 +1,15 @@
+artifact_uri: file:///home/cooperhepworth/Project-Build-an-ML-Pipeline-Starter/mlruns/0/3d8cbe3c5a8a4862b064bcf675fffc45/artifacts
+end_time: 1714150208909
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3d8cbe3c5a8a4862b064bcf675fffc45
+run_name: lyrical-duck-811
+run_uuid: 3d8cbe3c5a8a4862b064bcf675fffc45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714150189760
+status: 4
+tags: []
+user_id: cooperhepworth

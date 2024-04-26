@@ -1,0 +1,15 @@
+artifact_uri: file:///home/cooperhepworth/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e00feff63d3c42c2bfa54af530119182/artifacts
+end_time: 1714162859965
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e00feff63d3c42c2bfa54af530119182
+run_name: agreeable-shrew-444
+run_uuid: e00feff63d3c42c2bfa54af530119182
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714162798626
+status: 4
+tags: []
+user_id: cooperhepworth

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/cooperhepworth/Project-Build-an-ML-Pipeline-Starter/mlruns/0/74ca04002dae4b709a75f3c33ea95502/artifacts
+end_time: 1714165249509
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 74ca04002dae4b709a75f3c33ea95502
+run_name: luminous-dove-633
+run_uuid: 74ca04002dae4b709a75f3c33ea95502
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714165217786
+status: 3
+tags: []
+user_id: cooperhepworth

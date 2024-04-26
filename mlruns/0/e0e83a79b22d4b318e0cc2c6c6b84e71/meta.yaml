@@ -1,0 +1,15 @@
+artifact_uri: file:///home/cooperhepworth/Project-Build-an-ML-Pipeline-Starter/mlruns/0/e0e83a79b22d4b318e0cc2c6c6b84e71/artifacts
+end_time: 1714165418071
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e0e83a79b22d4b318e0cc2c6c6b84e71
+run_name: defiant-flea-790
+run_uuid: e0e83a79b22d4b318e0cc2c6c6b84e71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714165216388
+status: 3
+tags: []
+user_id: cooperhepworth

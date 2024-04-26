@@ -1,0 +1,15 @@
+artifact_uri: file:///home/cooperhepworth/Project-Build-an-ML-Pipeline-Starter/mlruns/0/bc32a84b89e64368974f79bfcaf1c3b2/artifacts
+end_time: 1714150440052
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bc32a84b89e64368974f79bfcaf1c3b2
+run_name: unequaled-chimp-590
+run_uuid: bc32a84b89e64368974f79bfcaf1c3b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714150422753
+status: 3
+tags: []
+user_id: cooperhepworth

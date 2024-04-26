@@ -1,0 +1,15 @@
+artifact_uri: file:///home/cooperhepworth/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a6c71f6bc1c44a9abb8ec61b6e873756/artifacts
+end_time: 1714146937598
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a6c71f6bc1c44a9abb8ec61b6e873756
+run_name: worried-gnu-228
+run_uuid: a6c71f6bc1c44a9abb8ec61b6e873756
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714146936906
+status: 4
+tags: []
+user_id: cooperhepworth

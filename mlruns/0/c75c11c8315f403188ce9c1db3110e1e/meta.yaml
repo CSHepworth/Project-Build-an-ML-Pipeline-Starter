@@ -1,0 +1,15 @@
+artifact_uri: file:///home/cooperhepworth/Project-Build-an-ML-Pipeline-Starter/mlruns/0/c75c11c8315f403188ce9c1db3110e1e/artifacts
+end_time: 1714163058810
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c75c11c8315f403188ce9c1db3110e1e
+run_name: rare-hound-604
+run_uuid: c75c11c8315f403188ce9c1db3110e1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714163011382
+status: 3
+tags: []
+user_id: cooperhepworth

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/cooperhepworth/Project-Build-an-ML-Pipeline-Starter/mlruns/0/6d15d36ce557419fbdf96805c7089a06/artifacts
+end_time: 1714160636888
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6d15d36ce557419fbdf96805c7089a06
+run_name: aged-snipe-755
+run_uuid: 6d15d36ce557419fbdf96805c7089a06
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714160622359
+status: 3
+tags: []
+user_id: cooperhepworth

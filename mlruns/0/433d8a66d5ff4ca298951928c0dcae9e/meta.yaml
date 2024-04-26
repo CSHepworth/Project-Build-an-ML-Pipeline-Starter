@@ -1,0 +1,15 @@
+artifact_uri: file:///home/cooperhepworth/Project-Build-an-ML-Pipeline-Starter/mlruns/0/433d8a66d5ff4ca298951928c0dcae9e/artifacts
+end_time: 1714163100882
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 433d8a66d5ff4ca298951928c0dcae9e
+run_name: efficient-jay-794
+run_uuid: 433d8a66d5ff4ca298951928c0dcae9e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714163058888
+status: 3
+tags: []
+user_id: cooperhepworth

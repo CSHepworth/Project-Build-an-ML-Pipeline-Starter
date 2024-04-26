@@ -1,0 +1,15 @@
+artifact_uri: file:///home/cooperhepworth/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f4e50ac38f2541cc9eecec9aeb301651/artifacts
+end_time: 1714147760936
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f4e50ac38f2541cc9eecec9aeb301651
+run_name: smiling-shrike-823
+run_uuid: f4e50ac38f2541cc9eecec9aeb301651
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714147690544
+status: 3
+tags: []
+user_id: cooperhepworth

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/cooperhepworth/Project-Build-an-ML-Pipeline-Starter/mlruns/0/9b79f720b81e4e6b888968b0e3176e07/artifacts
+end_time: 1714165921853
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9b79f720b81e4e6b888968b0e3176e07
+run_name: handsome-cat-129
+run_uuid: 9b79f720b81e4e6b888968b0e3176e07
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714165921324
+status: 4
+tags: []
+user_id: cooperhepworth

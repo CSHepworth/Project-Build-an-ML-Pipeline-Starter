@@ -1,0 +1,15 @@
+artifact_uri: file:///home/cooperhepworth/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a0b1efd8de0d4f5fae44077f216e6509/artifacts
+end_time: 1714112413723
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a0b1efd8de0d4f5fae44077f216e6509
+run_name: indecisive-smelt-302
+run_uuid: a0b1efd8de0d4f5fae44077f216e6509
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714112413089
+status: 4
+tags: []
+user_id: cooperhepworth

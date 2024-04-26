@@ -1,0 +1,15 @@
+artifact_uri: file:///home/cooperhepworth/Project-Build-an-ML-Pipeline-Starter/mlruns/0/d91446fdb7224b4387b65dce7e858907/artifacts
+end_time: 1714166011155
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d91446fdb7224b4387b65dce7e858907
+run_name: merciful-rat-766
+run_uuid: d91446fdb7224b4387b65dce7e858907
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714165950746
+status: 3
+tags: []
+user_id: cooperhepworth

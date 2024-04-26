@@ -1,0 +1,15 @@
+artifact_uri: file:///home/cooperhepworth/Project-Build-an-ML-Pipeline-Starter/mlruns/0/8d5cc5bcc13f491a9ab29f5858e18582/artifacts
+end_time: 1714160568080
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8d5cc5bcc13f491a9ab29f5858e18582
+run_name: upset-loon-932
+run_uuid: 8d5cc5bcc13f491a9ab29f5858e18582
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714160521431
+status: 4
+tags: []
+user_id: cooperhepworth

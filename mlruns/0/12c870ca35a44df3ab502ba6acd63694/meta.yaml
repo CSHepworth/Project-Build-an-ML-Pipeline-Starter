@@ -1,0 +1,15 @@
+artifact_uri: file:///home/cooperhepworth/Project-Build-an-ML-Pipeline-Starter/mlruns/0/12c870ca35a44df3ab502ba6acd63694/artifacts
+end_time: 1714111867346
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 12c870ca35a44df3ab502ba6acd63694
+run_name: bustling-bear-316
+run_uuid: 12c870ca35a44df3ab502ba6acd63694
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714111866714
+status: 4
+tags: []
+user_id: cooperhepworth

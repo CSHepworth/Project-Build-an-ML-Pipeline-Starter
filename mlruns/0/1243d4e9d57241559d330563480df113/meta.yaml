@@ -1,0 +1,15 @@
+artifact_uri: file:///home/cooperhepworth/Project-Build-an-ML-Pipeline-Starter/mlruns/0/1243d4e9d57241559d330563480df113/artifacts
+end_time: 1714163165577
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1243d4e9d57241559d330563480df113
+run_name: valuable-mare-981
+run_uuid: 1243d4e9d57241559d330563480df113
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714162939047
+status: 3
+tags: []
+user_id: cooperhepworth
